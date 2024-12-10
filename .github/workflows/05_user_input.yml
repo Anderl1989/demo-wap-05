@@ -1,4 +1,4 @@
-name: Query user input
+name: 05 Query user input
 
 on:
   workflow_dispatch:
